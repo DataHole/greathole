@@ -42,4 +42,3 @@ athena-provider/target/m2e-wtp/web-resources/META-INF/maven/athena/athena-provid
 athena-provider/target/m2e-wtp/web-resources/META-INF/maven/athena/athena-provider/pom.properties
 syntax: regexp
 ^product\.properties$
-
