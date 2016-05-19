@@ -7,10 +7,10 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>greathole-master</artifactId>
+    <artifactId>greathole-client</artifactId>
     <packaging>jar</packaging>
 
-    <name>greathole-master</name>
+    <name>greathole-client</name>
     <url>http://maven.apache.org</url>
 
     <properties>
@@ -21,7 +21,7 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <scope>test</scope>
+            <version>4.10</version>
         </dependency>
     </dependencies>
 </project>
